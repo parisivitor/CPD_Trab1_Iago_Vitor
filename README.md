@@ -1,5 +1,5 @@
 # CPD_Trab1_Iago_Vitor
-Trabalho pratico 1 de Computação Paralela Distribuída
+Trabalho prático 1 de Computação Paralela Distribuída
 
 Aluno: Iago Vinicius Siqueira Ribeiro   RA:2015.1.08.028
 
